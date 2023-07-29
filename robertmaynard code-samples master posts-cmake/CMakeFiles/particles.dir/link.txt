@@ -1,0 +1,2 @@
+/usr/bin/ar qc libparticles.a CMakeFiles/particles.dir/randomize.cpp.o CMakeFiles/particles.dir/particle.cu.o CMakeFiles/particles.dir/v3.cu.o
+/usr/bin/ranlib libparticles.a
